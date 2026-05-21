@@ -60,8 +60,6 @@ while True:
     learn()
     build()
     improve()
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deeronika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC"/>
 
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeronika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC"/> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=120&section=footer"/> ```
