@@ -1,48 +1,46 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=220&section=header&text=Hi,%20I'm%20Deren&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi, I'm Deren
+<table>
+<tr>
+<td width="45%">
 
-### Python Developer focused on AI, Computer Vision & Cloud
+### About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?color=C084FC&center=true&vCenter=true&lines=Python+Developer;Computer+Vision+Projects;AI+%26+Backend+Development;AWS+Learner" />
+I'm a Python Developer focused on AI, Computer Vision, Backend Development, and Cloud technologies.
 
-</div>
+I enjoy building interactive, real-time applications and turning ideas into working projects.
 
----
+</td>
+<td width="55%">
 
-## About Me
+### Skills
 
-- Building real-time AI applications
-- Interested in Computer Vision & Backend Development
-- Learning AWS & Cloud Technologies
-- Creating interactive Python projects
+![Python](https://img.shields.io/badge/Python-BB86FC?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-F8BBD0?style=for-the-badge&logo=flask&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-C084FC?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-E9D5FF?style=for-the-badge&logo=google&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-BB86FC?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F8BBD0?style=for-the-badge&logo=mysql&logoColor=black)
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,git,github,aws,mysql,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-- Finger Gesture Effects Camera
-- QA Wolf Take Home
-- Vibe Sound
-- Mood Caption Generator
+| Project | Description |
+|---|---|
+| **Finger Gesture Effects Camera** | Real-time computer vision app with live webcam effects |
+| **QA Wolf Take Home** | Playwright automation project |
+| **Vibe Sound** | Mood-based Spotify playlist web app |
+| **Mood Caption Generator** | Flask app that generates captions based on mood |
 
 ---
 
-## Current Focus
+<div align="center">
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
+<img src="https://github-readme-stats.vercel.app/api?username=deeronika&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC"/>
 
 </div>
